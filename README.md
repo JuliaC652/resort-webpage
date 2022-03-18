@@ -8,6 +8,8 @@
 
 * _Computer_
 * _Web Browser_
+* _HTML_
+* _CSS_
 
 ## Description
 
@@ -28,6 +30,7 @@ _Navigate to Github.com/JuliaC652/resort-webpage and download the contents (ensu
 * _Boy Is This Site Ugly_
 * _You Are Likely Too Poor For This Resort_
 * _And the Resort Does Not Exist_
+* _If You Read My Past Commits, You See That I Misused "Website" Vs "Webpage". You Live You Learn..._
 
 ## License
 
